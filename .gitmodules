@@ -1,0 +1,3 @@
+[submodule "prev"]
+	path = prev
+	url = git@github.com:j3parker/SillySubmoduleDemo.git
